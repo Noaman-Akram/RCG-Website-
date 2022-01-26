@@ -1,0 +1,69 @@
+body{
+    color: #1f1a17;
+}
+#divH{
+    width: 100%;
+    background-color: #d0d9f2 ;
+    height: 100px;
+}
+#divH2{
+    background-color: #224bc7;
+    width: 80%;
+    height: 80px;
+    margin-left: 150px;
+    color: #ffffff;
+    
+}
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+      color: inherit;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+  }
+#divF{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+}
+.projects{
+    margin-top: 0px;
+    width: 100%;
+    background-color: rgb(168, 158, 158);
+    height: 55%;
+}
+.projimage{
+    width: 32%;
+    height: 40vh;
+}
+.mega{
+    width: 35%;
+    height: 50vh;
+}
+li{
+    list-style: none;
+
+}
+li ul{
+    list-style: none;
+    float: left;
+    margin-top: 30px;
+}
+.button{
+    margin: 10px;
+    border: 1px solid #1f1a17;
+    width: 100px;
+    padding: 13px 15px 13px 15px;
+}
+.button:hover {
+    color: white;
+    background: #1f1a17;
+    border-color: #1f1a17;
+    text-decoration: none;
+}
